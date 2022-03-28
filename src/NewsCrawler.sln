@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32210.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsCrawler", "NewsCrawler\NewsCrawler.csproj", "{2A3E5F04-CB23-4081-92D4-0D91AADA70DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A3E5F04-CB23-4081-92D4-0D91AADA70DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3E5F04-CB23-4081-92D4-0D91AADA70DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3E5F04-CB23-4081-92D4-0D91AADA70DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3E5F04-CB23-4081-92D4-0D91AADA70DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF18E252-591B-4297-9FC0-1DEDFA5337C7}
+	EndGlobalSection
+EndGlobal
